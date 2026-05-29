@@ -114131,7 +114131,7 @@ $1(a){return B.iq},
 $S:166}
 A.XB.prototype={
 I(a){var s=null,r=A.wQ(B.FL,s,s,s),q=this.c?B.FN:B.Xl
-return new A.I3(q,$.bgU(),"App de Adopci\xf3n y Fundaci\xf3n",r,!1,s)}}
+return new A.I3(q,$.bgU(),"Happy Puppy Tail",r,!1,s)}}
 A.SA.prototype={
 I(a){var s,r,q="[DEFAULT]",p=$.P,o=(p==null?$.P=$.ay():p).am(q)
 p=$.b8()
